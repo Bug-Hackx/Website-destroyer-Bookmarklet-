@@ -1,2 +1,5 @@
 # Website-destroyer-Bookmarklet-
+
+(EPILEPSY WARNING)
+
 javascript:alert("Made by @ChickenGaming115 check me out on youtube (this works best if you search up google ai)"); alert("Destroying website..."); alert("Website destroyed!"); (function(){document.body.style.background = %27red%27;})(); (function(){var walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT,null,false);var node;while(node=walker.nextNode()){if(node.nodeValue.trim()){node.nodeValue=%27Website destroyed!%27;}}})();
